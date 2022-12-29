@@ -1,0 +1,5 @@
+give Sulaiman minecraft:netherite_sword{Enchantments:[{id:sharpness,lvl:5},{id:looting,lvl:3},{id:unbreaking,lvl:3}]}
+give Sulaiman minecraft:netherite_axe{Enchantments:[{id:sharpness,lvl:5},{id:unbreaking,lvl:3}]}
+give Sulaiman minecraft:netherite_pickaxe{Enchantments:[{id:fortune,lvl:3},{id:efficiency,lvl:5},{id:unbreaking,lvl:3}]}
+give Sulaiman minecraft:netherite_pickaxe{Enchantments:[{id:silk_touch},{id:efficiency,lvl:5},{id:unbreaking,lvl:3}]}
+give Sulaiman minecraft:netherite_shovel{Enchantments:[{id:efficiency,lvl:5},{id:unbreaking,lvl:3}]}

@@ -2,5 +2,3 @@ give Sulaiman minecraft:netherite_helmet{Enchantments:[{id:protection,lvl:4},{id
 give Sulaiman minecraft:netherite_chestplate{Enchantments:[{id:protection,lvl:4},{id:blast_protection,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:unbreaking,lvl:3}]}
 give Sulaiman minecraft:netherite_leggings{Enchantments:[{id:protection,lvl:4},{id:blast_protection,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:unbreaking,lvl:3}]}
 give Sulaiman minecraft:netherite_boots{Enchantments:[{id:protection,lvl:4},{id:blast_protection,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:unbreaking,lvl:3}]}
-give Sulaiman minecraft:netherite_sword{Enchantments:[{id:sharpness,lvl:5},{id:unbreaking,lvl:3}]}
-give Sulaiman minecraft:netherite_axe{Enchantments:[{id:sharpness,lvl:5},{id:unbreaking,lvl:3}]}
